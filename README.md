@@ -3,7 +3,7 @@ The frames will be extracted from the video mentioned in the code written in pyt
 
 Requirements
 ----
-You require OpenCV 3.2 to be installed.
+
 Run
 ----
 Open the main.py and edit the path to the video. Then run:
